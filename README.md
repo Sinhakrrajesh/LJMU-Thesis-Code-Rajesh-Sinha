@@ -1,10 +1,11 @@
-# Thesis Experiments
+# Evaluating Prompt Engineering Strategies for Generative AI in BFSI Applications: A Comparative Study of Risk Analysis, Customer Communication, and Decision Explanation with Explainable AI 
 
 ## Overview
 
-This repository contains the experimental code, evaluation results, and explainability analysis developed as part of my Master's dissertation titled:
+This repository contains the experimental code, evaluation results, and explainability analysis developed as part of my Master's dissertation
 
-**Evaluating Prompt Engineering Strategies for Generative AI in BFSI Applications: A Comparative Study of Risk Analysis, Customer Communication, and Decision Explanation with Explainable AI.**
+Student Name: Rajesh Kumar Sinha
+Programme: MSc Artificial Intelligence and Machine Learning, Liverpool John Moores University (LJMU)
 
 The study investigates six prompt engineering strategies across multiple Large Language Models (LLMs) for Banking, Financial Services, and Insurance (BFSI) applications.
 
