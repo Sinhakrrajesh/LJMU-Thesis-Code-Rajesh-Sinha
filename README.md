@@ -31,6 +31,7 @@ The research focuses on:
 
 ## Repository Structure
 
+```text
 LJMU-Thesis-Code-Rajesh-Sinha/
 │
 ├── Task1_Risk_Analysis_and_Summarisation/
@@ -52,13 +53,15 @@ LJMU-Thesis-Code-Rajesh-Sinha/
 │   └── GPT-OSS-120B/
 │
 ├── Outputs/
-│   ├── Evaluation Results
-│   ├── Visualisations
-│   ├── Explainability Results
-│   └── Comparative Analysis
+│   ├── Evaluation Results/
+│   ├── Visualisations/
+│   ├── Explainability Results/
+│   └── Comparative Analysis/
 │
 ├── Dataset/
 ├── README.md
+└── requirements.txt
+```
 
 
 
