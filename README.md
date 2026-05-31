@@ -31,36 +31,42 @@ The research focuses on:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 LJMU-Thesis-Code-Rajesh-Sinha/
 │
-├── Task1_Risk_Analysis_and_Summarisation/
-│   ├── Llama-3.1-8B-Instant/
-│   ├── Llama-3.3-70B-Versatile/
-│   ├── GPT-OSS-20B/
-│   └── GPT-OSS-120B/
+├── Experiments/
 │
-├── Task2_Customer_Communication_Drafting/
-│   ├── Llama-3.1-8B-Instant/
-│   ├── Llama-3.3-70B-Versatile/
-│   ├── GPT-OSS-20B/
-│   └── GPT-OSS-120B/
-│
-├── Task3_Decision_Explanation_and_Justification/
-│   ├── Llama-3.1-8B-Instant/
-│   ├── Llama-3.3-70B-Versatile/
-│   ├── GPT-OSS-20B/
-│   └── GPT-OSS-120B/
-│
-├── Outputs/
-│   ├── Evaluation Results/
-│   ├── Visualisations/
-│   ├── Explainability Results/
-│   └── Comparative Analysis/
+├── Consolidated_Experiment_Result/
+│   ├── Visualization_Outputs/
+│   └── Experiment_Results.xlsx
 │
 ├── Dataset/
-├── README.md
-└── requirements.txt
+│   └── common_bfsi_dataset.csv
+│
+├── Dataset_Preparation_Experiment/
+│   └── 01_CFPB_Dataset_Cleaning_and_Preparation.ipynb
+│
+├── Task_1_Risk_Analysis_and_Summarisation_Experiments/
+│   ├── Experiment_1_Llama_3_1_8b_instant/
+│   ├── Experiment_2_Llama_3_3_70b_versatile/
+│   ├── Experiment_3_04_Task1_GPTOSS_120B/
+│   └── Experiment_4_05_Task1_GPTOSS_20B/
+│
+├── Task_2_Customer_Communication_Drafting_Experiments/
+│   ├── Experiment_5_06_Task_2_Llama_3_1_8b_instant/
+│   ├── Experiment_6_07_Task_2_Llama_3_3_70b_versatile/
+│   ├── Experiment_7_08_Task_2_GPTOSS_120B/
+│   └── Experiment_8_09_Task_2_GPTOSS_20B/
+│
+├── Task_3_Decision_Explanation_and_Justification_Experiments/
+│   ├── Experiment_09_10_Task_3_Llama_3_1_8b_instant/
+│   ├── Experiment_10_11_Task_3_Llama_3_3_70b_versatile/
+│   ├── Experiment_11_12_Task_3_GPTOSS_120B/
+│   └── Experiment_12_13_Task_3_GPTOSS_20B/
+│
+└── README.md
 ```
 
 
