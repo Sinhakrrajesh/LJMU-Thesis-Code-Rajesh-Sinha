@@ -34,7 +34,6 @@ The study investigates six prompt engineering strategies across multiple Large L
 - GPT-OSS-20B
 - GPT-OSS-120B
 
-## Repository Structure
 
 ## Repository Structure
 
