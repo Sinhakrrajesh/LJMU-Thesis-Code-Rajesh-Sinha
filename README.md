@@ -4,15 +4,19 @@
 
 This repository contains the experimental code, evaluation results, and explainability analysis developed as part of my Master's dissertation
 
-Student Name: Rajesh Kumar Sinha
-Programme: MSc Artificial Intelligence and Machine Learning, Liverpool John Moores University (LJMU)
+-Student Name: Rajesh Kumar Sinha
+-Programme: MSc Artificial Intelligence and Machine Learning, Liverpool John Moores University (LJMU)
 
 The study investigates six prompt engineering strategies across multiple Large Language Models (LLMs) for Banking, Financial Services, and Insurance (BFSI) applications.
 
-The research focuses on:
+## The research focuses on:
 - Risk Analysis and Summarisation
 - Customer Communication Drafting
 - Decision Explanation and Justification
+
+# DataSet
+The study uses the Consumer Financial Protection Bureau complaint dataset.
+https://www.consumerfinance.gov/data-research/consumer-complaints/
 
 ## Evaluated Prompt Engineering Strategies
 
