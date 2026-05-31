@@ -34,12 +34,22 @@ The research focuses on:
 LJMU-Thesis-Code-Rajesh-Sinha/
 │
 ├── Task1_Risk_Analysis_and_Summarisation/
+│   ├── Llama-3.1-8B-Instant/
+│   ├── Llama-3.3-70B-Versatile/
+│   ├── GPT-OSS-20B/
+│   └── GPT-OSS-120B/
 │
 ├── Task2_Customer_Communication_Drafting/
+│   ├── Llama-3.1-8B-Instant/
+│   ├── Llama-3.3-70B-Versatile/
+│   ├── GPT-OSS-20B/
+│   └── GPT-OSS-120B/
 │
 ├── Task3_Decision_Explanation_and_Justification/
-│
-├── Dataset/
+│   ├── Llama-3.1-8B-Instant/
+│   ├── Llama-3.3-70B-Versatile/
+│   ├── GPT-OSS-20B/
+│   └── GPT-OSS-120B/
 │
 ├── Outputs/
 │   ├── Evaluation Results
@@ -47,7 +57,9 @@ LJMU-Thesis-Code-Rajesh-Sinha/
 │   ├── Explainability Results
 │   └── Comparative Analysis
 │
+├── Dataset/
 ├── README.md
+
 
 
 ## Explainability Analysis
